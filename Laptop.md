@@ -1,11 +1,11 @@
-# Anschlüsse/Connectivity:
+# Anschluß/Connectivity-Test:
 - USB
 - Kamera
 - Bluetooth
 - HDMI
 - Audio
 
-# Software
+# Zu installierende Software
 - Office
 - Thunderbird
 - Firefox
