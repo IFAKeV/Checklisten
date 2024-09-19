@@ -5,7 +5,7 @@
 - HDMI
 - Audio
 
-# Zu installierende Software
+# zu installierende Software
 - Office
 - Thunderbird
 - Firefox
