@@ -5,4 +5,10 @@
 - HDMI
 - Audio
 
-Software
+# Software
+- Office
+- Thunderbird
+- Firefox
+- Foxit
+- 7zip
+  ggf. Genograph
